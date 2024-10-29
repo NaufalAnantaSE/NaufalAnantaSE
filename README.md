@@ -4,30 +4,30 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naufal+Ananta!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Indoneia</h3>
+<h3 align="center">A passionate software developer from Indonesia</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently Studing at **Telkom University Purwokerto**
+ 🔭 I’m currently Studying at **Telkom University Purwokerto**
  
  🌱 I’m currently learning **Automation, Blockchain, Smart-contracts** and **Web3**
 
  📫 How to reach me: **work.naufalananta@gmail.com**
 
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:work.naufalananta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/NaufalAnantaSE" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -56,10 +56,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-NaufalAnantaSE.vercel.app/?user=NaufalAnantaSE&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-NaufalAnantaSE.vercel.app/api?username=NaufalAnantaSE&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=NaufalAnantaSE&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=NaufalAnantaSE&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-NaufalAnantaSE.vercel.app/api/top-langs/?username=NaufalAnantaSE&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalAnantaSE&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
