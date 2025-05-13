@@ -1,5 +1,3 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 # Hello There!, I'm Naufal, a IDN Web Developer 👋🏼:
 🛜 This my Portfolio [webpage]([https://www.tobiasmeyhoefer.de](https://portofolio-rho-lilac.vercel.app/))<br>👨🏼‍🎓 studying at Telkom University Purwokerto<br>👨🏼‍💻 Studing as a software engineer since 2022 <br>
 
