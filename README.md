@@ -11,3 +11,7 @@
   <img alt="Snake animation" src="https://github.com/NaufalAnantaSE/NaufalAnantaSE/blob/output/github-snake.svg">
 </picture>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NaufalAnantaSE&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NaufalAnantaSE&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalAnantaSE&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
