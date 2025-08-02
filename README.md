@@ -1,4 +1,4 @@
-# Hello There!, I'm Naufal, a IDN Web Developer 👋🏼
+# Hello There!, I'm Naufal, an IDN Web Developer 👋🏼
 🛜 This is my Portfolio Website: https://naufal.dnn.web.id <br>👨🏼‍🎓 studying at Telkom University Purwokerto<br>👨🏼‍💻 Studing as a software engineer since 2022 <br>
 
 # 💻 Tech Stack:
